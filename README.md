@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.7.1",
+  "latestVersion": "1.7.2",
   "latestBuildNumber": 11,
   "minimumSupportedBuildNumber": 10,
   "mandatory": false,
