@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.7.2",
-  "latestBuildNumber": 17,
+  "latestBuildNumber": 18,
   "minimumSupportedBuildNumber": 10,
   "mandatory": false,
   "title": "Nova versão disponível",
